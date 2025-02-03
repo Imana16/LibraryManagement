@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddBookForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddMemberForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BorrowBooksUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="EditBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditMemberForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditProfile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GenerateReports.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="LibrarianDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="loginform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageBooksControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ManageBorrowings.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ManageMembersControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ManageReservations.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="MemberDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReserveBooks.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ViewAllBooks.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ViewAllMembers.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ViewProfile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
